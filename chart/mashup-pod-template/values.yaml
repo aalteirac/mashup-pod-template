@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: alteirac/mashup-pod-template
+  repository: qlik/mashup-pod-template
   tag: latest
   pullPolicy: Always
 
